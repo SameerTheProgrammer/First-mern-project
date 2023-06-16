@@ -1,0 +1,15 @@
+
+
+body{
+    background: rgba(248,249,250);
+}
+
+@media (max-width: 700px){
+    html{
+        font-size: 92.5%;
+    }
+}
+
+
+
+
